@@ -1,0 +1,12 @@
+{
+  "name": "LojinhaAxeDevTools",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cypress": "*",
+    "typescript": "*"
+  },
+  "dependencies": {
+    "axe-core": "^4.7.2",
+    "cypress-axe": "^1.4.0"
+  }
+}
